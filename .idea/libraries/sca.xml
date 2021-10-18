@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="sca">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/15.zip!/" />
+      <root url="jar://$PROJECT_DIR$/14.zip!/" />
+      <root url="jar://$PROJECT_DIR$/08.zip!/" />
+      <root url="jar://$PROJECT_DIR$/07.zip!/" />
+      <root url="jar://$PROJECT_DIR$/09.zip!/" />
+      <root url="jar://$PROJECT_DIR$/18.zip!/" />
+      <root url="jar://$PROJECT_DIR$/12.zip!/" />
+      <root url="jar://$PROJECT_DIR$/10.zip!/" />
+      <root url="jar://$PROJECT_DIR$/13.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
