@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/07/order-service/order-service.iml" filepath="$PROJECT_DIR$/07/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08/order-service/order-service (1).iml" filepath="$PROJECT_DIR$/08/order-service/order-service (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sca.iml" filepath="$PROJECT_DIR$/.idea/sca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08/warehouse-dubbo/warehouse.iml" filepath="$PROJECT_DIR$/08/warehouse-dubbo/warehouse.iml" />
       <module fileurl="file://$PROJECT_DIR$/07/warehouse-service/warehouse-service.iml" filepath="$PROJECT_DIR$/07/warehouse-service/warehouse-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08/warehouse-service/warehouse-service (1).iml" filepath="$PROJECT_DIR$/08/warehouse-service/warehouse-service (1).iml" />
     </modules>
   </component>
 </project>

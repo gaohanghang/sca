@@ -6,14 +6,14 @@ spring:
   cloud:
     nacos: #nacos注册地址
       discovery:
-        server-addr: 192.168.31.101:8848
+        server-addr: localhost:8848
         username: nacos
         password: nacos
 dubbo: #dubbo与nacos的通信配置
   application:
     name: warehouse-dubbo #provider在Nacos中的应用id
   registry: #Provider与Nacos通信地址，与spring.cloud.nacos地址一致
-    address: nacos://192.168.31.101:8848
+    address: nacos://localhost:8848
   protocol:
     name: dubbo #通信协议名
     port: 20880 #配置通信端口，默认为20880

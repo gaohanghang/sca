@@ -5,5 +5,11 @@
     <file url="file://$PROJECT_DIR$/07/order-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07/warehouse-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07/warehouse-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08/order-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08/warehouse-dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08/warehouse-dubbo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08/warehouse-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08/warehouse-service/src/main/resources" charset="UTF-8" />
   </component>
 </project>
