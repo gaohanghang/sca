@@ -7,7 +7,7 @@ spring:
     nacos:
       config: #这里配置的是Nacos配置中心
         file-extension: yml #指定文件扩展名
-        server-addr: 192.168.31.10:8848
+        server-addr: localhost:8848
         username: nacos
         password: nacos
 logging:
